@@ -1,77 +1,68 @@
 <h1 align="center">Hi 👋, I'm Mahesh Thete</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | BSc Graduate | Cloud & Automation Enthusiast</h3>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 Graduate in Science  
-- 💻 DevOps Fresher with hands-on project experience  
-- ☁️ Skilled in AWS Cloud & Infrastructure Automation  
-- 🐧 Strong knowledge of Linux & Shell Scripting  
-- 🔄 Passionate about CI/CD, Automation & Monitoring  
-- 📚 Always learning new DevOps tools & best practices  
+- 🎓 Bachelor of Science (BSc) Graduate  
+- 💻 Passionate about **DevOps, Cloud, and Automation**
+- 🛠️ Strong foundation in **Linux & System Administration**
+- ☁️ Hands-on experience with **AWS Cloud Services**
+- 🔄 Learning and building projects in **CI/CD & Kubernetes**
+- 📈 Goal: Become a **Skilled DevOps Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
 
-<img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,gcp" />
-<br><br>
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible" />
-<br><br>
+### 💻 Programming & Scripting
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
-<img src="https://skillicons.dev/icons?i=jenkins,git,github" />
-<br><br>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-<img src="https://skillicons.dev/icons?i=mysql,nginx,apache" />
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-
-</p>
-
----
-
-## 📂 Projects
-
-### 🔹 CI/CD Pipeline Project
-- Built CI/CD pipeline using Jenkins  
-- Integrated GitHub & Docker  
-- Automated build & deployment  
-
-### 🔹 AWS Infrastructure Setup
-- Created EC2, VPC, S3 using Terraform  
-- Implemented Infrastructure as Code  
-
-### 🔹 Kubernetes Deployment
-- Deployed application using Kubernetes  
-- Used Services & Deployments  
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📌 Projects
 
+- 🔹 CI/CD Pipeline using Jenkins & Docker  
+- 🔹 Kubernetes Deployment Project  
+- 🔹 AWS Infrastructure using Terraform  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: your-email@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your-email@example.com  
 
 ---
 
-## ⚡ Fun Fact
-
-💡 "Automation is not a tool, it's a mindset!"
-
----
+⭐ *"Always learning, always building!"*

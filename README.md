@@ -10,31 +10,40 @@ I am passionate about building scalable, reliable, and automated systems, and I 
 
 # 💻 Tech Stack:
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/GCP-lightgrey?style=for-the-badge&logo=googlecloud)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-green?style=for-the-badge&logo=gnubash)
+# 💻 Tech Stack:
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+<p align="center">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
 
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+<br><br>
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-brown?style=for-the-badge&logo=mariadb)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-darkblue?style=for-the-badge&logo=amazondynamodb)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
 
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
-![Apache](https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=apache)
-![Tomcat](https://img.shields.io/badge/Tomcat-yellow?style=for-the-badge&logo=apachetomcat)
+<br><br>
 
-![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
-![Datadog](https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50"/>
+
+</p>
 
 ---
 
